@@ -22,6 +22,7 @@
 </svelte:head>
 
 <div class="flex-1 flex flex-col items-center justify-center relative">
+  <!--
   <a
     href="https://www.producthunt.com/posts/hue-tools?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-hue-tools"
     target="_blank"
@@ -34,6 +35,7 @@
       height="54"
     /></a
   >
+  -->
   <div class="text-center">
     <h1
       class="text-5xl sm:text-7xl md:text-8xl font-bold mb-3 text-primary-clamped transition"
